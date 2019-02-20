@@ -1,0 +1,2 @@
+This is a file to test stash.
+If you have some job not finished but you need to fix a bug, please do a "git stash"first.
