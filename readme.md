@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is **quick** and simple.
 Start branch management.
-\colorbox{blue}{{\color{white}{DSN'23}}}
+$\colorbox{blue}{{\color{white}{DSN'23}}}$
+$\color{blue}{\textrm{Red Nimetaga }}$
